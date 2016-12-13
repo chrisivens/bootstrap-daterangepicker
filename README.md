@@ -2,6 +2,8 @@
 
 ![Improvely.com](http://i.imgur.com/LbAMf3D.png)
 
+## This library is in the process of being ported to foundation in this repo
+
 This date range picker component for Bootstrap creates a dropdown menu from which a user can
 select a range of dates. I created it while building the UI for [Improvely](http://www.improvely.com), 
 which needed a way to select date ranges for reports.
